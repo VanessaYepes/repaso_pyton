@@ -10,6 +10,7 @@ class Persona():
         self.documento=documento
 
 persona1=Persona('vanessa',22,20044004) #creo la persona 
+
 print(persona1.nombre)
 
 
